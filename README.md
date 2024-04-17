@@ -22,3 +22,19 @@ In this project, we develop a classification model that categorizes software rep
 - `README`: Documentation and additional resources related to the project.
 - `/scripts`: Utility scripts for training, inferencing and make API calls.
 
+## Citation
+
+If you use our work or dataset in your research, please cite our paper:
+
+```bibtex
+@conference{kdir23,
+  author = {Abdelhalim Dahou and Brigitte Mathiak},
+  title = {Subject Classification of Software Repository},
+  booktitle = {Proceedings of the 15th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - Volume 1: KDIR},
+  year = {2023},
+  pages = {30-38},
+  publisher = {SciTePress},
+  organization = {INSTICC},
+  doi = {10.5220/0012159600003598},
+  isbn = {978-989-758-671-2}
+}
