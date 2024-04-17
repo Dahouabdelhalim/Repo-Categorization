@@ -6,7 +6,7 @@ This repository hosts the code and dataset related to our research on the automa
 
 ## Abstract
 
-In this project, we develop a classification model that categorizes software repositories by analyzing both high-level and low-level features of the repository content. This approach helps in systematically grouping software, aiding developers in locating and utilizing repositories more efficiently. Our model employs advanced machine learning techniques to handle the variability and sparse data challenges typically associated with software repositories.
+In this project, we develop a classification model that categorizes software repositories by analyzing both high-level and low-level features of the repository content. This approach helps in systematically grouping software, aiding developers in locating and utilizing repositories more efficiently. Our model employs advanced ML techniques to deal with data challenges typically associated with software repositories.
 
 ## Keywords
 
